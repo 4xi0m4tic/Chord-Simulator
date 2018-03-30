@@ -1,2 +1,2 @@
 # Chord-Simulator
-A simple program to simulate a chord network to count its sent messages.
+A simple program simulating a chord network to count its sent messages.
